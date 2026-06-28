@@ -1,2 +1,2 @@
-# kraken-crew-detailing-website
-Kraken Crew Detailing Website
+# Kraken Crew Detailing
+💯
