@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montenegrin Gothic One', sans-serif;
 }
 
 html,
@@ -23,12 +24,12 @@ body {
     padding: 20px;
     box-sizing: border-box;
 
-    background:
-        linear-gradient(
-            rgba(0, 0, 0, 0.65),
-            rgba(0, 0, 0, 0.65)
-        ),
-        url("background.jpg");
+    background: linear-gradient(
+        135deg,
+        #4a4a4a 0%,
+        #2f2f2f 40%,
+        #1b1b1b 100%
+    );
 
     background-size: cover;
     background-position: center center;
